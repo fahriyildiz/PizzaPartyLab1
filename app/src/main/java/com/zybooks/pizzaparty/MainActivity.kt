@@ -40,8 +40,8 @@ class MainActivity : ComponentActivity() {
 
     /**
      * This function is activated when the user clicks on
-     * the "calcuate" button
-     * @property view
+     * the "calculate" button
+     * @property view the actual view
      */
     fun calculateClick(view: View) {
         // Gets the value entered into Edit Text
